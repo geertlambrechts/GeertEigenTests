@@ -1,4 +1,5 @@
 Dit is bestand1.txt
+Dit is de lijn ertussen uit main
 lijn ertussen uit branch1
 lijn2
 lijn3
