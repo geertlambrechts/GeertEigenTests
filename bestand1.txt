@@ -1,8 +1,11 @@
 lijn1
 lijn2
+bijgevoegd in branch2
+en nog lijn bijgevoegd
 lijn3
 lijn4
 lijn5
 lijn6
 lijn7
 lijn8
+lijn bijgevoegd op einde in branch2
