@@ -1,8 +1,9 @@
 lijn1
-lijn2
+lijn2branch2
 lijn3
 lijn4
 lijn5
 lijn6
+bijgevoegd in branch2
 lijn7
 lijn8
