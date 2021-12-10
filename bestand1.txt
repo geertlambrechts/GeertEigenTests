@@ -1,5 +1,5 @@
 lijn1
-lijn2xy
+lijn2
 lijn3
 lijn4
 lijn5
