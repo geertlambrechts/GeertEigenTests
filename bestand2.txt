@@ -1,1 +1,2 @@
 Dit is bestand2.txt
+bijgevoegd in branch2
