@@ -1,12 +1,8 @@
-Dit is bestand1.txt
-Dit is de lijn ertussen uit main
-Bijgevoegd in branch2
-lijn ertussen uit branch1
+lijn1
 lijn2
 lijn3
 lijn4
 lijn5
-bijgevoegd in branch1
 lijn6
 lijn7
 lijn8
