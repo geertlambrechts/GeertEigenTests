@@ -1,7 +1,9 @@
 lijn1
 lijn2
+lijn bijgevoegd in branch1
 lijn3
 lijn4
+bijgevoegd in branch1
 lijn5
 lijn6
 lijn7
