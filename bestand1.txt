@@ -9,3 +9,4 @@ lijn6
 lijn7
 lijn8
 lijn bijgevoegd op einde in branch2
+lijn bijgvoegd in remote
